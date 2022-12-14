@@ -1,0 +1,43 @@
+[
+  {
+    "function": "minecraft:set_enchantments",
+    "enchantments": {
+      "minecraft:sharpness": 5,
+      "minecraft:unbreaking": 10,
+      "minecraft:vanishing_curse": 1,
+      "minecraft:mending": 10,
+      "minecraft:sweeping": 10,
+      "minecraft:looting": 5
+    },
+    "add": false,
+    "conditions": [
+      {
+        "condition": "minecraft:match_tool",
+        "predicate": {
+          "items": [
+            "minecraft:netherite_sword"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_name",
+    "name": "Testing"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Where did this come from?",
+        "color": "lightblue",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "function": "minecraft:looting_enchant",
+    "count": 5,
+    "limit": 5
+  }
+]
