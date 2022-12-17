@@ -1,0 +1,1 @@
+item replace entity @p weapon with bow{display:{Name:ReallyCoolBow},Enchantments:[{id:"power",lvl:20},{id:"unbreaking",lvl:10},{id:"infinity",lvl:1},{id:"punch",lvl:2},{id:"vanishing_curse",lvl:1}]}

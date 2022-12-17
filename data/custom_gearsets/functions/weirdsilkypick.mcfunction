@@ -1,0 +1,1 @@
+item replace entity @p weapon with minecraft:netherite_pickaxe{display:{Name:ReallyCoolSilkyPick},Enchantments:[{id:"efficiency",lvl:10},{id:"unbreaking",lvl:10},{id:"vanishing_curse",lvl:1},{id:"mending",lvl:10},{id:"silk_touch",lvl:1},]}
