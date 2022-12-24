@@ -1,1 +1,1 @@
-tellraw @a {"text": "Custom_Gearsets_DP Load Complete!", "color": "purple"}
+tellraw @a {"text": "Custom_Gearsets_DP Load Complete!", "color": "red"}
